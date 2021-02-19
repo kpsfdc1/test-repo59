@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+class hello()	#from dev2
+{
+	public static void main()	#from dev2
+=======
+class hello()	#from dev1
+{
+	public static void main()	#from dev1
+>>>>>>> e58f48d514bd969d82368a96a424716f9c78d510
+	{
+		public static void main("hello from dev1");
+	}
+}#from dev2
